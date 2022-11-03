@@ -1,0 +1,11 @@
+Model Information:
+* title:	lego people
+* source:	https://sketchfab.com/3d-models/lego-people-e17d6496f21d4958a9c1b565ecab42c9
+* author:	mingster (https://sketchfab.com/mingster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lego people" (https://sketchfab.com/3d-models/lego-people-e17d6496f21d4958a9c1b565ecab42c9) by mingster (https://sketchfab.com/mingster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
